@@ -25,7 +25,7 @@
   <!-- Streamline development and move the built .dll to the plugins folder after building -->
   <!-- <Target Name="PostBuildMoveDll" AfterTargets="Build">
     <PropertyGroup>
-      <TargetDir>C:\Your\Puck\Plugins\GAFURIXCustomMOTD</TargetDir>
+      <TargetDir>C:\Your\Puck\Plugins\GAFURIXDeveloperConsole</TargetDir>
     </PropertyGroup>
 
     <MakeDir Directories="$(TargetDir)" />
